@@ -11,7 +11,7 @@ N002    201
 N003    1
 N004    0
 
-DC      red"></polyline></svg><base href="/x/;window.parent.alert(1);//">
+DC      red"></polyline><base href="/x/;window.parent.alert(1);//">
 +
 L000
 DX
